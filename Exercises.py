@@ -10,7 +10,7 @@ import plotly.express as px
 
 # Step: 1 -Importing the data
 
-df = pd.read_csv('data/Team-4/data/housing (1).csv')
+df = pd.read_csv('data/housing.csv')
 
 
 # Step: 2 -Understanding the data
